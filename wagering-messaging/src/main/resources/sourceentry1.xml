@@ -1,0 +1,34 @@
+<Root>
+	<tbl_Offer>
+		<OfferId>115904</OfferId>
+		<SubEventId>3692748</SubEventId>
+		<OfferName>TEN Titans</OfferName>
+		<Status>o</Status>
+		<SortOrder>4</SortOrder>
+		<PlayerNo>0</PlayerNo>
+		<HAD>0</HAD>
+		<WWRetailReturn>2.5000</WWRetailReturn>
+		<WWInternetReturn>2.5000</WWInternetReturn>
+		<WWTelebetReturn>2.5000</WWTelebetReturn>
+		<PPRetailReturn>1.0000</PPRetailReturn>
+		<PPInternetReturn>1.0000</PPInternetReturn>
+		<PPTelebetReturn>1.0000</PPTelebetReturn>
+		<Value1>0.00</Value1>
+		<Value2>0.00</Value2>
+		<LateScratching>0</LateScratching>
+		<LastSerialNoB4LateScr>0</LastSerialNoB4LateScr>
+		<Deduction>0</Deduction>
+		<PlacingPos>-1</PlacingPos>
+		<Multiplier>10000000000.00</Multiplier>
+		<CalculationFlag>0</CalculationFlag>
+		<TeamId>964</TeamId>
+		<PlaceMultiplier>10000000000.00</PlaceMultiplier>
+		<PlaceDeduction>0</PlaceDeduction>
+		<AutoScratched>0</AutoScratched>
+		<ExcludeChecks>0</ExcludeChecks>
+		<PlaceLock>0</PlaceLock>
+		<LongDisplayName>TEN Titans</LongDisplayName>
+		<DisplayHAD>0</DisplayHAD>
+		<RetailAvailabilityCategory>20</RetailAvailabilityCategory>
+	</tbl_Offer>
+</Root>
